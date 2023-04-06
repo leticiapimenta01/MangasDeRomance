@@ -4,8 +4,6 @@ Um site feito para um trabalho escolar, onde é possível ver algumas caracterí
 Para ver como ele funciona veja os vídeos que gravei do site.
 
 Página Inicial:
-<video>
-  <source src="https://user-images.githubusercontent.com/61246044/230402571-d1712070-acf8-47df-b767-1de4ddaacb36.mp4" type="video/mp4">
-</video>
+<img widht="500" height="500" src="https://user-images.githubusercontent.com/61246044/230404875-f0a33b2c-808b-498f-819c-ed4d7cb51b61.gif">
 
 
