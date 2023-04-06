@@ -1,0 +1,61 @@
+body{
+    background-color: #fca2b0;
+}
+
+h2{
+    color: white;
+    font-size: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+th{
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: PaleVioletRed;
+}
+
+td{
+    padding: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: pink;
+}
+
+table{
+    border-color: red;
+    border-style: solid;
+}
+
+nav{
+    margin: 0px;
+    padding: 0px;
+}
+
+ul{
+    list-style: none;
+    border: 0px solid red;
+    margin-right: 20px;
+    padding-left: 0px;
+    float:left;
+}
+
+.menu li{
+    position: relative;
+    float:initial;
+}
+
+.menu a{
+    text-decoration:none; 
+    padding:5px 10px;
+     
+    display:block;
+}
+
+.menu a:hover{
+    background-color: white;
+    border-radius: 40px;
+}
+
+

@@ -1,0 +1,32 @@
+body{
+    background-color: #fca2b0;
+}
+
+h2{
+    color: white;
+    font-size: 35px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+td{
+    padding: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: PaleVioletRed;
+}
+
+.descricao{
+    color: white;
+    padding: 10px;
+}
+
+table{
+    border-color: red;
+    border-style: solid;
+}
+
+.home{
+    color: black;
+}
+.home:hover{
+    color: white;
+}
